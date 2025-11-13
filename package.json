@@ -1,0 +1,30 @@
+{
+  "name": "whatsport",
+  "version": "1.0.0",
+  "description": "Find what's using your port and kill it easily",
+  "main": "index.js",
+  "bin": {
+    "whatsport": "index.js"
+  },
+  "keywords": [
+    "port",
+    "kill",
+    "process",
+    "cli",
+    "developer-tools"
+  ],
+  "author": "Atish Paul (https://flenco.in)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "funding": {
+    "type": "buymeacoffee",
+    "url": "https://buymeacoffee.com/atishpaul"
+  },
+  "homepage": "https://flenco.in",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atishpaul/whatsport.git"
+  }
+}
