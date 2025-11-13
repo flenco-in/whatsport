@@ -13,7 +13,7 @@ You google, then run 3 commands manually. Every. Single. Time.
 ## Solution
 
 ```bash
-npx portkill 3000
+npx whatsport 3000
 ```
 
 **Output:**
