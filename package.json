@@ -1,6 +1,6 @@
 {
   "name": "whatsport",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find what's using your port and kill it easily",
   "main": "index.js",
   "bin": {
